@@ -6,7 +6,3 @@ def es_primo(n):
             return False
     return True
 
-# Ejemplo de uso
-numero = 29
-print(f"{numero} es primo: {es_primo(numero)}")
-
